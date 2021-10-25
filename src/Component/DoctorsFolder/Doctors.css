@@ -1,0 +1,43 @@
+.doctorsDiv1 {
+  color: rgb(33, 33, 73);
+  text-align: center;
+  height: 2vh;
+  width: 10vw;
+  position: absolute;
+  left: 9.8vw;
+  top: 73vh;
+  font-size: 1.6vw;
+}
+
+.doctorsDiv2 {
+  color: rgb(33, 33, 73);
+  height: 40vh;
+  width: 19vw;
+  position: absolute;
+  top: 90vh;
+  left: 10vw;
+  font-size: 1.1vw;
+  line-height: 3.2vh;
+}
+
+.doctorsDiv3 {
+  color: rgb(33, 33, 73);
+  height: 40vh;
+  width: 19vw;
+  position: absolute;
+  top: 90vh;
+  left: 35vw;
+  font-size: 1.1vw;
+  line-height: 3.2vh;
+}
+
+.doctorsDiv4 {
+  color: rgb(33, 33, 73);
+  height: 40vh;
+  width: 19vw;
+  position: absolute;
+  top: 90vh;
+  left: 55vw;
+  font-size: 1.1vw;
+  line-height: 3.2vh;
+}

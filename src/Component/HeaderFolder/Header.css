@@ -1,0 +1,60 @@
+.pageName {
+  color: white;
+  position: absolute;
+  text-align: center;
+  left: 2.5vw;
+  width: 15vw;
+  font-size: 1.3vw;
+}
+
+.header {
+  background-color: rgb(33, 33, 73);
+  position: absolute;
+  top: 60vh;
+  width: 99.2vw;
+  height: 8vh;
+}
+
+.homePageDiv {
+  color: white;
+  position: absolute;
+  text-align: center;
+  left: 70vw;
+  top: 1.5vh;
+  width: 8vw;
+  height: 1vh;
+  padding-bottom: 2vh;
+}
+
+.doctorDiv {
+  color: white;
+  position: absolute;
+  text-align: center;
+  left: 80vw;
+  top: 1.5vh;
+  width: 3.5vw;
+  height: 1vh;
+  padding-bottom: 2vh;
+}
+
+.servicesDiv {
+  color: white;
+  position: absolute;
+  text-align: center;
+  left: 86vw;
+  top: 1.5vh;
+  width: 3.5vw;
+  height: 1vh;
+  padding-bottom: 2vh;
+}
+
+.contactDiv {
+  color: white;
+  position: absolute;
+  text-align: center;
+  left: 92vw;
+  top: 1.5vh;
+  width: 3.5vw;
+  height: 1vh;
+  padding-bottom: 2vh;
+}

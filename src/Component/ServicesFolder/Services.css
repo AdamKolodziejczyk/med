@@ -1,0 +1,106 @@
+.servicesDiv1 {
+    position: absolute;
+    width: 2vw;
+    height: 3vh;
+    left: 14vw;
+    top: 75vh;
+    font-size: 3.3vw;
+  }
+  
+  .servicesDiv2 {
+    background-color: rgb(33, 33, 73);
+    position: absolute;
+    width: 99.2vw;
+    height: 80vh;
+    top: 90vh;
+  }
+  
+  .servicesDiv3 {
+    position: absolute;
+    width: 99.2vw;
+    height: 128vh;
+    top: 170vh;
+  }
+  
+  .servicesDiv4 {
+    background-color: rgb(33, 33, 73);
+    position: absolute;
+    width: 99.2vw;
+    height: 130vh;
+    top: 298vh;
+  }
+  
+  .servicesDiv5 {
+    position: absolute;
+    width: 99.2vw;
+    height: 150vh;
+    top: 428vh;
+  }
+
+  .Picture1 {
+    position: absolute;
+    width: 30vw;
+    height: 40vh;
+    top: 20vh;
+    left: 15vw;
+  }
+  
+  .Picture2 {
+    position: absolute;
+    width: 30vw;
+    height: 40vh;
+    left: 50vw;
+    top: 40vh;
+  }
+  
+  .Picture3 {
+    position: absolute;
+    width: 30vw;
+    height: 40vh;
+    top: 40vh;
+    left: 15vw;
+  }
+  
+  .Picture4 {
+    position: absolute;
+    width: 30vw;
+    height: 40vh;
+    left: 50vw;
+    top: 50vh;
+  }
+
+  .servicesText1 {
+    color: white;
+    position: absolute;
+    left: 50vw;
+    font-size: 0.9vw;
+    padding-top: 2.5vh;
+    line-height: 3.2vh;
+  }
+  
+  .servicesText2 {
+    position: absolute;
+    color: rgb(33, 33, 73);
+    font-size: 0.9vw;
+    padding-top: 4.5vh;
+    left: 15vw;
+    line-height: 3.2vh;
+  }
+  
+  .servicesText3 {
+    color: white;
+    position: absolute;
+    padding-top: 5vh;
+    left: 50vw;
+    font-size: 0.9vw;
+    line-height: 3.2vh;
+  }
+  
+  .servicesText4 {
+    color: rgb(33, 33, 73);
+    position: absolute;
+    padding-top: 3vh;
+    font-size: 0.9vw;
+    line-height: 3.2vh;
+    left: 15vw;
+  }

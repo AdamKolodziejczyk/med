@@ -1,0 +1,143 @@
+.logoImg {
+    position: absolute;
+    top: 12vh;
+    left: 30vw;
+    width: 50vw;
+    height: 15vh;
+  }
+
+  .logoBox {
+    position: absolute;
+    top: 68vh;
+    width: 99.2vw;
+    height: 40vh;
+  }
+
+  .infoBox {
+    background-color: rgb(247, 190, 36);
+    color: rgb(33, 33, 73);
+    position: absolute;
+    text-align: center;
+    top: 108vh;
+    width: 99.2vw;
+    height: 40vh;
+  }
+
+  .infoTextBold {
+    font-size: 2.4vw;
+  }
+
+.infoText {
+    margin-top: 10vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    line-height: 3.2vh;
+    font-size: 1.2vw;
+  }
+
+  .doctorsBox {
+    position: absolute;
+    text-align: center;
+    top: 153vh;
+    left: 19vw;
+    width: 20vw;
+    height: 30vh;
+    border: 3px rgb(247, 190, 36) solid;
+  }
+
+  .doctorBoxText {
+    position: absolute;
+    top: 10vh;
+    left: 5vw;
+  }
+
+  .servicesBox {
+    position: absolute;
+    text-align: center;
+    top: 153vh;
+    left: 40vw;
+    width: 20vw;
+    height: 30vh;
+    border: 3px rgb(247, 190, 36) solid;
+  }
+
+  .servicesBoxText {
+    position: absolute;
+    top: 10vh;
+    left: 7vw;
+  }
+
+  .contactBox {
+    position: absolute;
+    text-align: center;
+    top: 153vh;
+    left: 61vw;
+    width: 20vw;
+    height: 30vh;
+    border: 3px rgb(247, 190, 36) solid;
+  }
+
+  .contactBoxText {
+    position: absolute;
+    top: 11vh;
+    left: 3.5vw;
+  }
+
+  ul {
+    color: black;
+  }
+  
+  .icon1 {
+    position: absolute;
+    left: 5.4vw;
+    top: 2.1vh;
+  }
+
+  .icon2 {
+    position: absolute;
+    left: 5.5vw;
+    top: 1.9vh;
+  }
+  
+  .icon3 {
+    position: absolute;
+    left: 5.5vw;
+    top: 0.4vh;
+  }
+
+  .divGo {
+    position: absolute;
+    background-color: rgb(247, 190, 36);
+    border: 0px rgb(247, 190, 36) solid;
+    border-radius: 40%;
+    width: 5vw;
+    height: 5vh;
+    left: 7vw;
+    top: 23vh;
+    color: rgb(33, 33, 73);
+  }
+  
+  .numbers {
+    color: rgb(33, 33, 73);
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: large;
+    top: 190vh;
+    height: 20vh;
+    width: 99.2vw;
+  }
+  
+  .address {
+    color: rgb(33, 33, 73);
+    position: relative;
+    text-align: left;
+    top: 145vh;
+    height: 10vh;
+    width: 99.2vw;
+    display: flex;
+    justify-content: center;
+    gap: 6vw;
+    font-size: 1vw;
+  }
